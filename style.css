@@ -224,9 +224,9 @@ h1{
 	}
 	
 	h1{
-	font-size: 1.2rem;
-    	width: 50%;
-    	display: inline-block;
+	font-size: 1.8rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
 	}
 	
 	.logo {
